@@ -1,0 +1,12 @@
+# python==3.11
+jupyterlab==4.3.4
+torch==2.5.1
+# pytorch-cuda==12.4
+numpy==2.2.1
+transformers==4.48.0.dev0
+accelerate==1.2.1
+ipywidgets==8.1.5
+claudette==0.1
+evaluate==0.4.3
+scikit-learn==1.5.2
+gradio==5.9.1
